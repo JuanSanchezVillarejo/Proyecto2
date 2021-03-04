@@ -1,0 +1,54 @@
+body{
+    width: 100%;
+    margin: auto;
+   background-color: rgb(77, 77, 77);
+    
+
+}
+iframe,img{
+   width: 100%;
+   object-fit: cover;
+}
+footer img{
+    width: 15px;
+    object-fit: cover;
+    
+}
+
+nav{
+    background-color:black;
+}
+
+
+
+a{
+    color: white;
+}
+a:hover{
+    color: orange;
+}
+
+h2{
+    color: orange;
+    text-align: center;
+}
+p{
+    color: white;
+}
+label{
+    color: orange;
+}
+.carousel-item img , .carousel-item-active img{
+    max-height: 1100px;
+    max-width: 700px;
+    
+
+}
+*{
+    font-family: 'Rock Salt', cursive;
+}
+
+
+
+
+
